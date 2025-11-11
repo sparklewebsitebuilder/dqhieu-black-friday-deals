@@ -14,6 +14,7 @@ Please follow the rules below:
 |  | Name | Description | Deal details |
 |--|------|-------------|--------------|
 |💸|[Compresto](https://compresto.app/ref=black-friday-deals)| Video, Image & PDF Compression for macOS | 40% OFF with code **BFCM25**|
+|💸|[Shakkei](https://shakkei.app/?ref=Black+Friday+Deals+GH)| The perfect ambience for your macOS workspace | 25% OFF with code **BF25**|
 
 ---
 
